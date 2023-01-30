@@ -35,10 +35,10 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Usage 
 
 
-![alt "W3C"](Develop\assets\images\accesibility-guidelines-groups-upd.PNG) The World Wide Web Consortium (W3C) sections.
+<image src="Develop\assets\images\accesibility-guidelines-groups-upd.png"> The World Wide Web Consortium (W3C) sections.
 
 
-![alt "HTML Semantics"](Develop\assets\images\html-semantic-code-upd.PNG) Some of the changes using accessibility semantics in the HTML code.
+<image src="Develop\assets\images\html-semantic-code-upd.png"> Some of the changes using accessibility semantics in the HTML code.
 
 
 ![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy-upd.PNG)  Some of the corrections of style.css redundant code.

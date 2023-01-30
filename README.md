@@ -35,23 +35,23 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Usage 
 
 
-![alt "W3C"](Develop\assets\images\accesibility-guidelines-groups-upd.png) The World Wide Web Consortium (W3C) sections.
+![alt "W3C"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/accesibility-guidelines-groups-upd.png) The World Wide Web Consortium (W3C) sections.
 
 
-![alt "HTML Semantics"](Develop\assets\images\html-semantic-code-upd.png) Some of the changes using accessibility semantics in the HTML code.
+![alt "HTML Semantics"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/html-semantic-code-upd.png) Some of the changes using accessibility semantics in the HTML code.
 
 
-![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy-upd.png)  Some of the corrections of style.css redundant code.
+![alt "Fixing CSS redundant code"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/css-code-redundancy-upd.png)  Some of the corrections of style.css redundant code.
 
-![alt "Git Commit Top"](Develop\assets\images\git-changes-uploaded-to-remote-github-top.png)  Git Commit Top.
+![alt "Git commit last changes"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/git-commit-top-upd.png)  Git Commit Last Changes Top
 
-![alt "Git Commit Bottom"](Develop\assets\images\git-changes-uploaded-to-remote-github-bottom.png)  Git Commit Bottom.
+![alt "Git commit last changes"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/git-commit-bottom-upd.png)  Git Commit Last Changes Bottom.
+
+![alt "Final Website"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/final-website-upd.png)  Final Website Top.
+
+![alt "Final Website"](https://github.com/dimartoro/dc-m1c-code-refactor/blob/main/Develop/assets/images/final-website-upd-p2.png)  Final Website Bottom.
 
 
-
-![alt "Final Website"](Develop\assets\images\final-website-upd.png)  Final Website Top.
-
-![alt "Final Website"](Develop\assets\images\final-website-upd-p2.png)  Final Website Bottom.
 
 
 ## Credits

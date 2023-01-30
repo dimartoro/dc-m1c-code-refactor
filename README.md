@@ -35,19 +35,19 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Usage 
 
 
-<image src="Develop\assets\images\accesibility-guidelines-groups-upd.png"> Image of The World Wide Web Consortium (W3C) sections.
+<image src="assets\images\accesibility-guidelines-groups-upd.png"> Image of The World Wide Web Consortium (W3C) sections.
 
-<image src="Develop\assets\images\html-semantic-code-upd.png"> Image of Some of the changes using accessibility semantics in the HTML code.
+<image src="assets\images\html-semantic-code-upd.png"> Image of Some of the changes using accessibility semantics in the HTML code.
 
-<image src="Develop\assets\images\css-code-redundancy-upd.png">  Image of Some of the redundant code corrections to style.css.
+<image src="assets\images\css-code-redundancy-upd.png">  Image of Some of the redundant code corrections to style.css.
 
-<image src="Develop\assets\images\git-changes-uploaded-to-remote-github-top.png">  Image of Git Commit Code of Last Changes Top
+<image src="assets\images\git-changes-uploaded-to-remote-github-top.png">  Image of Git Commit Code of Last Changes Top
 
-<image src="Develop\assets\images\git-changes-uploaded-to-remote-github-bottom.png"> Image of Git Commit Code of Last Changes Bottom.
+<image src="assets\images\git-changes-uploaded-to-remote-github-bottom.png"> Image of Git Commit Code of Last Changes Bottom.
 
-<image src="Develop\assets\images\final-website-upd.png">  Image of Resulting Website project Top.
+<image src="assets\images\final-website-upd.png">  Image of Resulting Website project Top.
 
-<image src="Develop\assets\images\final-website-upd-p2.png"> Image of Resulting Website project Bottom.
+<image src="assets\images\final-website-upd-p2.png"> Image of Resulting Website project Bottom.
 
 
 ## Credits

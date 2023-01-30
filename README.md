@@ -35,23 +35,19 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Usage 
 
 
-<image src="Develop\assets\images\accesibility-guidelines-groups-upd.png"> The World Wide Web Consortium (W3C) sections.
+<image src="Develop\assets\images\accesibility-guidelines-groups-upd.png"> Image of The World Wide Web Consortium (W3C) sections.
 
+<image src="Develop\assets\images\html-semantic-code-upd.png"> Image of Some of the changes using accessibility semantics in the HTML code.
 
-<image src="Develop\assets\images\html-semantic-code-upd.png"> Some of the changes using accessibility semantics in the HTML code.
+<image src="Develop\assets\images\css-code-redundancy-upd.png">  Image of Some of the redundant code corrections to style.css.
 
+<image src="Develop\assets\images\git-changes-uploaded-to-remote-github-top.png">  Image of Git Commit Code of Last Changes Top
 
-![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy-upd.PNG)  Some of the corrections of style.css redundant code.
+<image src="Develop\assets\images\git-changes-uploaded-to-remote-github-bottom.png"> Image of Git Commit Code of Last Changes Bottom.
 
-![alt "Git commit last changes"](Develop\assets\images\git-changes-uploaded-to-remote-github-top.PNG)  Git Commit Last Changes Top
+<image src="Develop\assets\images\final-website-upd.png">  Image of Resulting Website project Top.
 
-![alt "Git commit last changes"](Develop\assets\images\git-changes-uploaded-to-remote-github-bottom.PNG)  Git Commit Last Changes Bottom.
-
-![alt "Final Website"](C:\Users\dimar\bootcamp\dc-m1c-code-refactor\Develop\assets\images\final-website-upd.PNG)  Final Website Top.
-
-![alt "Final Website"](Develop\assets\images\final-website-upd-p2.PNG)  Final Website Bottom.
-
-
+<image src="Develop\assets\images\final-website-upd-p2.png"> Image of Resulting Website project Bottom.
 
 
 ## Credits

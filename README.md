@@ -43,9 +43,15 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 
 ![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy.png)  Some of the corrections of style.css redundant code.
 
+![alt "Git commit last changes"](Develop\assets\images\git-add-A-commit-m-pulloriginmain-pushoriginfeature-branch-checkoutmain.png)  Git Commit Last Changes Top
+
+![alt "Git commit last changes"](Develop\assets\images\git-add-A-commit-m-pulloriginmain-pushoriginfeature-branch-checkoutmain2.png)  Git Commit Last Changes Bottom.
+
 ![alt "Final Website"](Develop\assets\images\final-website.png)  Final Website Top.
 
 ![alt "Final Website"](Develop\assets\images\final-website-p2.png)  Final Website Bottom.
+
+
 
 
 ## Credits

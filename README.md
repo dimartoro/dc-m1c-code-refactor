@@ -9,6 +9,7 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Table of Contents
 
 - [Installation](#installation)
+- [ChallengeURL](#challengeurl)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -31,6 +32,10 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 13. Deployment.
 14. Submission.
 
+## ChallengeURL
+
+https://dimartoro.github.io/dc-m1c-code-refactor/
+
 
 ## Usage 
 
@@ -45,9 +50,13 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 
 <image src="assets\images\git-changes-uploaded-to-remote-github-bottom.png"> Image of Git Commit Code of Last Changes Bottom.
 
-<image src="assets\images\final-website-upd.png">  Image of Resulting Website project Top.
+<image src="assets\images\dimartoro-dc-m1c-code-refactor-repository.png">  Image of Challenge1 My Remote Repository
 
-<image src="assets\images\final-website-upd-p2.png"> Image of Resulting Website project Bottom.
+<image src="assets\images\deployment-step1.png"> Image of Deployment Step1: Settings/Pages Select main-root folder.
+
+<image src="assets\images\deployment-step2.png">  Image of Deployment Step2: Get the link assigned to my website by GitHub.
+
+<image src="assets\images\deployment-validation.png">  Image of Deployment validation.
 
 
 ## Credits
@@ -72,6 +81,7 @@ https://contrast-ratio.com/#%23ffffff-on-%232a607c
 Source of The World Wide Web Consortium (W3C) sections Image:
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jonas.me%2Ftalks%2Fintroduction-to-the-web-content-accessibility-guidelines%2F&psig=AOvVaw0phTtr9Ot88THAy9bfEznm&ust=1675120922912000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCNigj9D37fwCFQAAAAAdAAAAABAD
+
 
 
 ## License

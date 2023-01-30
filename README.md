@@ -35,21 +35,21 @@ Refactoring the code of the website of Horiseon's, a marketing company, to accom
 ## Usage 
 
 
-![alt "W3C"](Develop\assets\images\accesibility-guidelines-groups.png) The World Wide Web Consortium (W3C) sections.
+![alt "W3C"](Develop\assets\images\accesibility-guidelines-groups-upd.png) The World Wide Web Consortium (W3C) sections.
 
 
-![alt "HTML Semantics"](Develop\assets\images\html-semantic-code.png) Some of the changes using accessibility semantics in the HTML code.
+![alt "HTML Semantics"](Develop\assets\images\html-semantic-code-upd.png) Some of the changes using accessibility semantics in the HTML code.
 
 
-![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy.png)  Some of the corrections of style.css redundant code.
+![alt "Fixing CSS redundant code"](Develop\assets\images\css-code-redundancy-upd.png)  Some of the corrections of style.css redundant code.
 
-![alt "Git commit last changes"](Develop\assets\images\git-add-A-commit-m-pulloriginmain-pushoriginfeature-branch-checkoutmain.png)  Git Commit Last Changes Top
+![alt "Git commit last changes"](Develop\assets\images\git-commit-top-upd.png)  Git Commit Last Changes Top
 
-![alt "Git commit last changes"](Develop\assets\images\git-add-A-commit-m-pulloriginmain-pushoriginfeature-branch-checkoutmain2.png)  Git Commit Last Changes Bottom.
+![alt "Git commit last changes"](Develop\assets\images\git-commit-bottom-upd.png)  Git Commit Last Changes Bottom.
 
-![alt "Final Website"](Develop\assets\images\final-website.png)  Final Website Top.
+![alt "Final Website"](Develop\assets\images\final-website-upd.png)  Final Website Top.
 
-![alt "Final Website"](Develop\assets\images\final-website-p2.png)  Final Website Bottom.
+![alt "Final Website"](Develop\assets\images\final-website-upd-p2.png)  Final Website Bottom.
 
 
 
